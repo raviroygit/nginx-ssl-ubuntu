@@ -11,10 +11,14 @@ Prerequisites
 Before we dive into setting up Nginx and SSL, let's start by installing the necessary tools:
 
 Install Certbot and update your package list:
-   sudo apt-get update -y
-   sudo snap install --classic certbot
+```
+sudo apt-get update -y
+sudo snap install --classic certbot
+```
 Install Nginx:
-   sudo apt install nginx -y
+```
+ sudo apt install nginx -y
+```
 With these prerequisites in place, you're ready to secure your EC2 instance with SSL.
 
 Step 1: Obtaining an SSL Certificate with Certbot
