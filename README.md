@@ -1,4 +1,4 @@
-Nginx Installation & HTTPS (SSL) Setup with Certbot In AWS EC2
+##Nginx Installation & HTTPS (SSL) Setup with Certbot In AWS EC2
 
 Prerequisites
 Before we dive into setting up Nginx and SSL, let's start by installing the necessary tools:
